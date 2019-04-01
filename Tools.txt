@@ -1,2 +1,5 @@
 [ssh clinet tool]
 1. MobaXterm
+
+[database tool]
+1. DBeaver

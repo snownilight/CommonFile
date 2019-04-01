@@ -1,5 +1,9 @@
-[ssh clinet tool]
+[ssh clinet tools]
 1. MobaXterm
 
-[database tool]
+[database tools]
 1. DBeaver
+
+[development tools]
+1. IntelliJ IDEA
+2. Visual Studio Code
